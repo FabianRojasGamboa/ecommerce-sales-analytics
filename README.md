@@ -1,4 +1,5 @@
 # E-commerce Sales & Customer Analytics
+[![Data quality tests](https://github.com/FabianRojasGamboa/ecommerce-sales-analytics/actions/workflows/data-quality.yml/badge.svg)](https://github.com/FabianRojasGamboa/ecommerce-sales-analytics/actions/workflows/data-quality.yml)
 
 Proyecto de análisis comercial de un comercio electrónico ficticio en Chile. Utiliza Python y PostgreSQL para generar datos sintéticos, modelar relaciones, validar la calidad de los datos y responder preguntas de negocio mediante SQL.
 
